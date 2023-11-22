@@ -1,0 +1,13 @@
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\bin\Debug\netcoreapp3.1\MathandComparison.exe
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\bin\Debug\netcoreapp3.1\MathandComparison.deps.json
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\bin\Debug\netcoreapp3.1\MathandComparison.runtimeconfig.json
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\bin\Debug\netcoreapp3.1\MathandComparison.runtimeconfig.dev.json
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\bin\Debug\netcoreapp3.1\MathandComparison.dll
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\bin\Debug\netcoreapp3.1\MathandComparison.pdb
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\obj\Debug\netcoreapp3.1\MathandComparison.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\obj\Debug\netcoreapp3.1\MathandComparison.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\obj\Debug\netcoreapp3.1\MathandComparison.AssemblyInfo.cs
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\obj\Debug\netcoreapp3.1\MathandComparison.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\obj\Debug\netcoreapp3.1\MathandComparison.dll
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\obj\Debug\netcoreapp3.1\MathandComparison.pdb
+C:\Users\chris\Desktop\Basic_C#_Programs\MathandComparison\MathandComparison\obj\Debug\netcoreapp3.1\MathandComparison.genruntimeconfig.cache

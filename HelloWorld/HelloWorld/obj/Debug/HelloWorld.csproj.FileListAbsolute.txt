@@ -1,0 +1,2 @@
+C:\Users\chris\Desktop\Basic_C#_Programs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Basic_C#_Programs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
