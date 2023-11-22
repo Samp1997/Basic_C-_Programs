@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\Desktop\\Basic_C#_Programs\\Loops\\Loops\\Loops.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\Loops\\Loops\\Loops.csproj",
       "projectName": "Loops",
-      "projectPath": "C:\\Users\\chris\\Desktop\\Basic_C#_Programs\\Loops\\Loops\\Loops.csproj",
+      "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\Loops\\Loops\\Loops.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\Desktop\\Basic_C#_Programs\\Loops\\Loops\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\Loops\\Loops\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
