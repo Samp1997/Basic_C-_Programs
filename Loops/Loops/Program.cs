@@ -7,6 +7,13 @@ namespace Loops
     {
         static void Main(string[] args)
         {
+            int i = 1;
+            while(i < 3)
+            {
+                Console.WriteLine(i);
+                i++;
+            }
+
             Console.WriteLine("Guess a number?");
             int number = Convert.ToInt32(Console.ReadLine());
             bool isGuessed = number == 12;

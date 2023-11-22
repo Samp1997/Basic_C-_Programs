@@ -1,12 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace Arrays
+
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        List<string> intList = new List<string>();
+        intList.Add("Hello");
+        intList.Add("Sam");
+        intList.Remove("Sam");
+
+        Console.WriteLine(intList[0]);
+
     }
 }
+
