@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\Desktop\\Basic_C#_Programs\\Branching\\Branching\\Branching.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\Branching\\Branching\\Branching.csproj",
       "projectName": "Branching",
-      "projectPath": "C:\\Users\\chris\\Desktop\\Basic_C#_Programs\\Branching\\Branching\\Branching.csproj",
+      "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\Branching\\Branching\\Branching.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\Desktop\\Basic_C#_Programs\\Branching\\Branching\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\Branching\\Branching\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

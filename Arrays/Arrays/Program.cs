@@ -20,12 +20,18 @@ class Program
 
         numArray2[5] = 650;
 
-        Console.WriteLine("select an index");
-        int awnser = numArray1[0];
-        Console.WriteLine("You picked " + awnser);
+        Console.WriteLine("This is the index" + " " + numArray1[0] + numArray[1] + " " + numArray[2] + " " + numArray[3] + " " + numArray[4]);
 
-        Console.WriteLine(numArray2[5]);
+        Console.WriteLine("select an index");
         Console.ReadLine();
+        string awnser = Console.ReadLine();
+        Console.WriteLine("You picked " + awnser );
+
+        if ( numArray[0] < numArray[1]   )
+        {
+             Console.WriteLine("This Index does not exist");
+        }
+
 
 
         List<string> intList = new List<string>();
