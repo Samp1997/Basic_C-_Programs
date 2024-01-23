@@ -27,15 +27,16 @@ class Program
         //Selecting from array with intergers//
         int[] numArray1 = new int[] { 5, 2, 10, 200, 5000, 600, 2300 };
 
-        Console.WriteLine("select one index from the array 0 - 7: ");
+        Console.WriteLine("select one index from the array 0 - 6: ");
         int indexSelect2 = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine(numArray1[indexSelect2]);
-
-        if (indexSelect2 > 7)
+        if (indexSelect2 > 0 && indexSelect2 < numArray1.Length)
+        {
+            Console.WriteLine(numArray1[indexSelect2]);
+        }
+        else
         {
             Console.WriteLine("index is out of range");
         }
-
         Console.ReadLine();
 
         List<string> intList = new List<string>();
@@ -43,7 +44,7 @@ class Program
         intList.Add("Cat");
         intList.Add("Bird");
         //Selecting from a list
-        Console.WriteLine("select one index from the list 0-3 ");
+        Console.WriteLine("select one index from the list 0-2 ");
         int indexSelect3 = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine(intList[indexSelect3]);
 
