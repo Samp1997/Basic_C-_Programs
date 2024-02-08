@@ -18,6 +18,8 @@ class Program
         Console.WriteLine("select one index from the array 0 - 4: ");
         int indexSelect1 = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine(numArray[indexSelect1]);
+
+
         
 
         
