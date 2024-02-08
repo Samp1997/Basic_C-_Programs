@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace sixpartassignment
 {
@@ -58,28 +59,59 @@ namespace sixpartassignment
 
             }
             Console.ReadLine();
-            // push/pull test
+            
             List<string> intList = new List<string>();
-            intList.Add("Player 2");
-            intList.Add("Player 3");
-            intList.Add("Player 4");
+            intList.Add("Player 5");
+            intList.Add("Player 6");
+            intList.Add("Player 7");
             //Selecting from a list
-            Console.WriteLine("select a player from the List 0 - 2 ");
-            int PlayerSelect2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(intList[PlayerSelect2]);
+            Console.WriteLine("select a player from the List  ");
+            string PlayerSelect2 = (Console.ReadLine());
+            
 
-            for (int i = 0; i < intList.Length; i++)
+            bool found = false;
+            for (int i = 0; i < intList.Count; i++)
             {
-               intList[i] += PlayerSelect2;
+               if (intList[i] == PlayerSelect2)
+                {
+                    found = true;
+                    Console.WriteLine("the index is ", i);
+                    break;
+                }
             }
 
-            if (PlayerSelect2 <= playerArray.Length)
+            if (found == false)
             {
-                Console.WriteLine(PlayerSelect1 + "  Player cant be selected");
+                Console.WriteLine("Selection isnt on the list");
+
             }
 
 
 
+            List<string> intList2 = new List<string>();
+            intList2.Add("Player 5");
+            intList2.Add("Player 5");
+            intList2.Add("Player 7");
+            //Selecting from a list
+            Console.WriteLine("select a player from the List  ");
+            string PlayerSelect3 = (Console.ReadLine());
+
+            bool found2 = false;
+            for (int i = 0; i < intList.Count; i++)
+            {
+                if (intList[i] == PlayerSelect2)
+                {
+                    found = true;
+                    Console.WriteLine("the index is ", i);
+                    break;
+                }
+            }
+
+            if (found2 == false)
+            {
+                Console.WriteLine("Selection isnt on the list");
+
+            }
 
 
 
