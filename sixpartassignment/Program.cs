@@ -7,59 +7,23 @@ namespace sixpartassignment
     {
         static void Main()
         {
+            //Part 1//
             string[] playerArray = new string[] { "Player 1", "Player 2", "Player 3", "Player 4"};
 
-            Console.WriteLine("select a player from the array 0 - 3: ");
-            int PlayerSelect1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(playerArray[PlayerSelect1] + " Selected");
-
-            Console.ReadLine();
-
-            Console.WriteLine(playerArray[PlayerSelect1]);
-            Console.ReadLine();
-
-            for(int i = 0; i < playerArray.Length;i++){
-               playerArray[i] += PlayerSelect1;
-            }
-
+            Console.WriteLine("Please enter word ");
+            string PlayerSelect1 = Console.ReadLine();
             for (int i = 0; i < playerArray.Length; i++)
             {
-                Console.WriteLine(playerArray[i]);
+                playerArray[i] = PlayerSelect1 + playerArray[i];
             }
-
-            //git changes
-            
-            if (PlayerSelect1 >  playerArray.Length)
+            foreach(string Player in playerArray)
             {
-                Console.WriteLine(playerArray[PlayerSelect1]);
-            }
+                Console.WriteLine(Player);
+            }  
 
-            if (PlayerSelect1 < playerArray.Length)
-            {
-                Console.WriteLine(playerArray[PlayerSelect1]);
-            }
-
-            if (PlayerSelect1 <= playerArray.Length)
-            {
-                Console.WriteLine(PlayerSelect1 + "  Player cant be selected");
-            }
-            Console.WriteLine();
-            
-
-            bool hasToend = true;
-            // using while loop
-            while (hasToend)
-            {
-
-                
-                // infinite 
-                Console.WriteLine("Lets play");
-                hasToend = false;
-                //Changing the var ends the loop//
-
-            }
             Console.ReadLine();
             
+            //part 4
             List<string> intList = new List<string>();
             intList.Add("Player 5");
             intList.Add("Player 6");
@@ -67,53 +31,63 @@ namespace sixpartassignment
             //Selecting from a list
             Console.WriteLine("select a player from the List  ");
             string PlayerSelect2 = (Console.ReadLine());
-            
 
-            bool found = false;
             for (int i = 0; i < intList.Count; i++)
             {
-               if (intList[i] == PlayerSelect2)
+                if (intList[i] == PlayerSelect2)
                 {
-                    found = true;
-                    Console.WriteLine("the index is ", i);
+                    Console.WriteLine("Selected Player:  " + intList[i] + " at index " + i);
+                }
+                else if (!intList.Contains(PlayerSelect2))
+                {
+                    Console.WriteLine("Item not found");
                     break;
                 }
-            }
-
-            if (found == false)
-            {
-                Console.WriteLine("Selection isnt on the list");
 
             }
+
+            //part 5
 
 
 
             List<string> intList2 = new List<string>();
             intList2.Add("Player 5");
-            intList2.Add("Player 5");
+            intList2.Add("Player 6");
             intList2.Add("Player 7");
             //Selecting from a list
             Console.WriteLine("select a player from the List  ");
             string PlayerSelect3 = (Console.ReadLine());
 
-            bool found2 = false;
-            for (int i = 0; i < intList.Count; i++)
+            for (int i = 0; i < intList2.Count; i++)
             {
-                if (intList[i] == PlayerSelect2)
+                if (intList2[i] == PlayerSelect3)
                 {
-                    found = true;
-                    Console.WriteLine("the index is ", i);
+                    Console.WriteLine("Selected Player:  " + intList2[i] + " at index " + i);
+                }
+                else if (!intList2.Contains(PlayerSelect3))
+                {
+                    Console.WriteLine("Item not found");
                     break;
                 }
+
             }
 
-            if (found2 == false)
+            List<int> gamePoints = new List<int>() { 1, 2, 3, 4, 5, 6, 6 };
+            List<int> gamePoints2 = new List<int>() { };
+            foreach(int i in gamePoints )
+            
             {
-                Console.WriteLine("Selection isnt on the list");
-
+                if (gamePoints2.Contains(i))
+                {
+                    Console.WriteLine("This item is a double");
+                }
+                else
+                {
+                  
+                    Console.WriteLine("This is unique ");
+                    gamePoints2.Add(i);
+                }
             }
-
-
 
         }
 

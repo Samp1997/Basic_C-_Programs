@@ -11,3 +11,16 @@ C:\Users\chris\Documents\GitHub\sixpartassignment\bin\Debug\netcoreapp3.1\sixpar
 C:\Users\chris\Documents\GitHub\sixpartassignment\obj\Debug\netcoreapp3.1\sixpartassignment.dll
 C:\Users\chris\Documents\GitHub\sixpartassignment\obj\Debug\netcoreapp3.1\sixpartassignment.pdb
 C:\Users\chris\Documents\GitHub\sixpartassignment\obj\Debug\netcoreapp3.1\sixpartassignment.genruntimeconfig.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\bin\Debug\netcoreapp3.1\sixpartassignment.exe
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\bin\Debug\netcoreapp3.1\sixpartassignment.deps.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\bin\Debug\netcoreapp3.1\sixpartassignment.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\bin\Debug\netcoreapp3.1\sixpartassignment.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\bin\Debug\netcoreapp3.1\sixpartassignment.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\bin\Debug\netcoreapp3.1\sixpartassignment.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\obj\Debug\netcoreapp3.1\sixpartassignment.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\obj\Debug\netcoreapp3.1\sixpartassignment.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\obj\Debug\netcoreapp3.1\sixpartassignment.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\obj\Debug\netcoreapp3.1\sixpartassignment.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\obj\Debug\netcoreapp3.1\sixpartassignment.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\obj\Debug\netcoreapp3.1\sixpartassignment.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\sixpartassignment\obj\Debug\netcoreapp3.1\sixpartassignment.genruntimeconfig.cache

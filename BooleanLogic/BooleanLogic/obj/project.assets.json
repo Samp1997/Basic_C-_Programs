@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\Desktop\\Basic_C#_Programs\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj",
       "projectName": "BooleanLogic",
-      "projectPath": "C:\\Users\\chris\\Desktop\\Basic_C#_Programs\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj",
+      "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\Desktop\\Basic_C#_Programs\\BooleanLogic\\BooleanLogic\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\BooleanLogic\\BooleanLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
