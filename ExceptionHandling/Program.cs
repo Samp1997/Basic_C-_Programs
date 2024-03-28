@@ -8,41 +8,21 @@ namespace ExceptionHandling
         static void Main(string[] args)
         {
 
-            List<string> intList = new List<string>();
-            intList.Add("1");
-            intList.Add("2");
-            intList.Add("3");
-            intList.Add("4");
-            intList.Add("5");
-            //Selecting from a list
+            List<int> numberList = new List<int>() { 1, 2, 3, 4, 5, 6, };
             Console.WriteLine("select a number from the List to divide  ");
-            float userimput = float.Parse(Console.ReadLine());
+            int userimput = Convert.ToInt32(Console.ReadLine());
 
-         
-            for (int i = 0; i < intList.Count; i++)
-            {
-                if (intList[i] == userimput)
+
+
+            try
                 {
-                    Console.WriteLine("Selected Player:  " + intList[i] + " at index " + i);
-                }
-                else if (!intList.Contains(userimput))
-                {
-                    Console.WriteLine("Item not found");
-                    break;
-                }
-
-
-
-
-                try
-                {
-                Console.WriteLine("Pick a number");
-                int numberOne = Convert.ToInt32(Console.ReadLine());
+                
+                
                 Console.WriteLine("Pick a second number.");
                 int numberTwo = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Divinding the two...");
-                int numberThree = numberOne / numberTwo;
-                Console.WriteLine(numberOne + " divided by " + numberTwo + " equals " + numberThree);
+                int numberThree = userimput / numberTwo;
+                Console.WriteLine(userimput + " divided by " + numberTwo + " equals " + numberThree);
                 Console.ReadLine();
             }
             catch (FormatException ex)
@@ -64,8 +44,18 @@ namespace ExceptionHandling
             }
             Console.ReadLine();
 
-            
-            
+            /// for (int i = 0; i < numberlist.count; i++)
+            // {
+            //     if (numberlist[i] == userimput)
+            //     {
+            //         console.writeline("selected number:  " + numberlist[i] + " at index " + i);
+            //     }
+            //     else if (!numberlist.contains(userimput))
+            //     {
+            //         console.writeline("item not found");
+            //         break;
+            //     }//
+
         }
     }
 }
