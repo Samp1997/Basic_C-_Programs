@@ -19,7 +19,7 @@ namespace ExceptionHandling
                 
                 
                 Console.WriteLine("Pick a second number.");
-                int numberTwo = Convert.ToInt32(Console.ReadLine());
+                int numberTwo = Convert.ToInt32(numberList.Count);
                 Console.WriteLine("Divinding the two...");
                 int numberThree = userimput / numberTwo;
                 Console.WriteLine(userimput + " divided by " + numberTwo + " equals " + numberThree);
