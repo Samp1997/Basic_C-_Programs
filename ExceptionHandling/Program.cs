@@ -9,21 +9,20 @@ namespace ExceptionHandling
         {
 
             List<int> numberList = new List<int>() { 1, 2, 3, 4, 5, 6, };
-            Console.WriteLine("select a number from the List to divide  ");
-            int userimput = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("select a number to divide the list by  ");
+            
 
 
 
             try
                 {
-                
-                
-                Console.WriteLine("Pick a second number.");
-                int numberTwo = Convert.ToInt32(numberList.Count);
-                Console.WriteLine("Divinding the two...");
-                int numberThree = userimput / numberTwo;
-                Console.WriteLine(userimput + " divided by " + numberTwo + " equals " + numberThree);
+                int userimput = Convert.ToInt32(Console.ReadLine());
+                foreach (int number in numberList)
+                {
+                    Console.WriteLine(number + " divided by " + userimput + " : " + number / userimput);
+                }
                 Console.ReadLine();
+                
             }
             catch (FormatException ex)
             {
