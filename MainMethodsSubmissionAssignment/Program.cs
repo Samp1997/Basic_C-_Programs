@@ -18,6 +18,13 @@ namespace MainMethodsSubmissionAssignment
             Console.WriteLine(MathOperations.Math2(answer2));
             Console.ReadLine();
 
+            string problem4 = "adding 5";
+            int input3 = Int32.Parse(problem4);
+            Console.WriteLine(input3);
+
+            Console.WriteLine(MathOperations.Math3(problem4 + answer3));
+            Console.ReadLine();
+
             
 
 

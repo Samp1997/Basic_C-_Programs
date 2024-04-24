@@ -21,15 +21,17 @@ namespace MainMethodsSubmissionAssignment
             return input3 + 5;
         }
 
+        
 
 
     }
 
-    public static class MathOperations2
+    public class MathOperations2
     {
-        public static int Math4 (int value4)
-        {
-            return value4 / 5;
-        }
+
+      
+
+
+
     }
 }
