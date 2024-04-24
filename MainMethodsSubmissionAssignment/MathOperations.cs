@@ -6,22 +6,30 @@ namespace MainMethodsSubmissionAssignment
 {
     public static class MathOperations
     {
-        public static int Math1(int value1)
+        public static int Math1(int input1)
         {
-            return value1 / 5;
+            return input1 / 5;
         }
 
-        public static int Math2(int value)
-        {
-            return value / 1 / 4;
+        public static decimal Math2(decimal input2)
+        { 
+            return input2 / 1 / 4;
         }
 
-        public static int Math3(int value)
+        public static int Math3(int input3)
         {
-            return value + 5;
+            return input3 + 5;
         }
 
 
 
+    }
+
+    public static class MathOperations2
+    {
+        public static int Math4 (int value4)
+        {
+            return value4 / 5;
+        }
     }
 }

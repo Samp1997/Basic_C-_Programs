@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\bin\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.exe
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\bin\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.deps.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\bin\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\bin\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\bin\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\bin\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\obj\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\obj\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\obj\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\obj\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\obj\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\obj\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MainMethodsSubmissionAssignment\obj\Debug\netcoreapp3.1\MainMethodsSubmissionAssignment.genruntimeconfig.cache
