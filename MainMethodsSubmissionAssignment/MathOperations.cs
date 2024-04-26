@@ -4,32 +4,25 @@ using System.Text;
 
 namespace MainMethodsSubmissionAssignment
 {
-    public static class MathOperations
+    public class MathOperations
     {
-        public static int Math1(int input1)
-        {
-            return input1 / 5;
-        }
-
-        public static decimal Math2(decimal input2)
-        { 
-            return input2 / 1 / 4;
-        }
-
-        public static int Math3(int input3)
-        {
-            return input3 + 5;
-        }
-
         
+        public int Math1(int input1)
+        {
+            return input1 * 5;
+        }
+
+        public int Math1(decimal input2)
+        {
+            return Convert.ToInt32(input2)  + 4;
+        }
+
+        public  int Math1(string input3)
+        {
+            return Convert.ToInt32(input3) + 5;
+        }
 
 
-    }
-
-    public class MathOperations2
-    {
-
-      
 
 
 
