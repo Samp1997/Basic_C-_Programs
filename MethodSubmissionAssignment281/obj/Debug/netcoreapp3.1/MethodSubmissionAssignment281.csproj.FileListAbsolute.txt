@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\bin\Debug\netcoreapp3.1\MethodSubmissionAssignment281.exe
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\bin\Debug\netcoreapp3.1\MethodSubmissionAssignment281.deps.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\bin\Debug\netcoreapp3.1\MethodSubmissionAssignment281.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\bin\Debug\netcoreapp3.1\MethodSubmissionAssignment281.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\bin\Debug\netcoreapp3.1\MethodSubmissionAssignment281.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\bin\Debug\netcoreapp3.1\MethodSubmissionAssignment281.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment281.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment281.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment281.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment281.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment281.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment281.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\MethodSubmissionAssignment281\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment281.genruntimeconfig.cache
