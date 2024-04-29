@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\MethodClassAssignment282\\MethodClassAssignment282.csproj",
-      "projectName": "MethodClassAssignment282",
-      "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\MethodClassAssignment282\\MethodClassAssignment282.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\MethodClassAssignment\\MethodClassAssignment.csproj",
+      "projectName": "MethodClassAssignment",
+      "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\MethodClassAssignment\\MethodClassAssignment.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\MethodClassAssignment282\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\Basic_C#_Programs\\MethodClassAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

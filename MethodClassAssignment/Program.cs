@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MethodClassAssignment282
+namespace MethodClassAssignment
 {
     class Program
     {
