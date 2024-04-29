@@ -6,7 +6,12 @@ namespace MethodClassAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MathOps Obj1 = new MathOps();
+            
+            
+            
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            int finalawnser = Obj1.Math1(num1);
         }
     }
 }
