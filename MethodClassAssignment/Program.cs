@@ -6,25 +6,25 @@ namespace MethodClassAssignment
     {
         static void Main(string[] args)
         {
+
+
             MathOps Obj1 = new MathOps();
+
             
 
-            Console.WriteLine("Enter a number, two numbers will be auto generated)");
+
+            Console.WriteLine("Input a number");
 
             int num1 = Convert.ToInt32(Console.ReadLine());
-            string answer = Console.ReadLine();
-            
+            Console.WriteLine("Input another number");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+            Obj1.Math1(num1, num2);
+            Console.ReadLine();
+            Obj1.Math1(input1: 8, input2: 12);
+            Console.ReadLine();
 
-            if (answer == "")
-            {
-                int finalawnser = Obj1.Math1(num1);
-                Console.WriteLine(finalawnser);
-            }
-            else
-            {
-                int num2 = Convert.ToInt32(Console.ReadLine());
 
-            }
+
         }
     }
 }

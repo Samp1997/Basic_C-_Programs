@@ -6,9 +6,20 @@ namespace MethodClassAssignment
 {
     class MathOps
     {
-         public int Math1(int input1, int input2 = 8)
+         public void Math1(int input1, int input2)
         {
-            return input1 * 8 + input2; 
+            input1 += 7;
+
+            
+            
+            
+            Console.WriteLine("The second input was:  " + input2);
+            
+        }
+
+        public static void NamedParameterFunction(string input1, string input2)
+        {
+            Console.WriteLine($"FullName: {input1} {input2}");
         }
     }
 }
