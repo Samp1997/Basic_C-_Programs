@@ -2,11 +2,12 @@
 
 namespace MethodsandObjects293
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee Obj1 = new Employee() { FirstName = "Sample", LastName = "Student", id = 5 };
+            Obj1.SayName();
         }
     }
 }
