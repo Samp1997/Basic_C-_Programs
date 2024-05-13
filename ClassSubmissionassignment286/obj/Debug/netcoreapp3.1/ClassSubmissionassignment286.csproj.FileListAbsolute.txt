@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\obj\Debug\netcoreapp3.1\ClassSubmissionassignment286.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\obj\Debug\netcoreapp3.1\ClassSubmissionassignment286.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\obj\Debug\netcoreapp3.1\ClassSubmissionassignment286.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\obj\Debug\netcoreapp3.1\ClassSubmissionassignment286.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\bin\Debug\netcoreapp3.1\ClassSubmissionassignment286.exe
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\bin\Debug\netcoreapp3.1\ClassSubmissionassignment286.deps.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\bin\Debug\netcoreapp3.1\ClassSubmissionassignment286.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\bin\Debug\netcoreapp3.1\ClassSubmissionassignment286.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\bin\Debug\netcoreapp3.1\ClassSubmissionassignment286.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\bin\Debug\netcoreapp3.1\ClassSubmissionassignment286.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\obj\Debug\netcoreapp3.1\ClassSubmissionassignment286.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\obj\Debug\netcoreapp3.1\ClassSubmissionassignment286.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ClassSubmissionassignment286\obj\Debug\netcoreapp3.1\ClassSubmissionassignment286.genruntimeconfig.cache

@@ -6,7 +6,7 @@ namespace MethodClassAssignment
 {
     class MathOps
     {
-         public void Math1(int input1, int input2)
+         public void Math1(int input1, int input2)                                                                                                                                 
         {
             input1 += 7;
 
