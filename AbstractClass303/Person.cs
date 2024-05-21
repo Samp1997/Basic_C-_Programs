@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AbstractClass303
 {
-    public abstract class People 
+    public abstract class Person
     {
         public string FirstName;
 
@@ -18,7 +18,7 @@ namespace AbstractClass303
 
     }
 
-     class Employee : People
+    class Employee : Person
     {
         public int id;
 
