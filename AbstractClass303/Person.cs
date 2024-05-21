@@ -10,10 +10,8 @@ namespace AbstractClass303
 
         public string LastName;
 
-        public void SayName()
-        {
-            Console.WriteLine("Name :  " + FirstName + " " + LastName);
-        }
+        public abstract void SayName(); 
+        
 
 
     }
@@ -22,7 +20,7 @@ namespace AbstractClass303
     {
         public int id;
 
-        public void SayName()
+        public override void SayName()
         {
             Console.WriteLine("Name :  " + FirstName + " " + LastName);
         }
