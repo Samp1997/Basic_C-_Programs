@@ -8,19 +8,4 @@ namespace PolymorphismAssignment307
     {
     }
 }
-class Employee 
-{
-    public string FirstName;
 
-    public string LastName;
-
-    public int id;
-
-    public void SayName()
-    {
-        Console.WriteLine("Name :  " + FirstName + " " + LastName);
-    }
-
-
-
-}
