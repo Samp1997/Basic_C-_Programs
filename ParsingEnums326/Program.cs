@@ -6,7 +6,7 @@ namespace ParsingEnums326
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter What day of the week it is (counted 1-7)");
         }
     }
 }
