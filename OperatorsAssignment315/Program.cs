@@ -2,11 +2,17 @@
 
 namespace OperatorsAssignment315
 {
-    class Program
+    class Program : Employee
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee employees = new Employee();
+            Employee. = new List<Employee>();
+            FirstName firstname = new id();
+            Employee.Name = "sam";
+            games += player;
+            games -= player;
+
         }
     }
 }
