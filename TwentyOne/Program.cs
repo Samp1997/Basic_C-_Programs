@@ -10,7 +10,14 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            
+
+
+            Games games = new TwentyOneGame();
+            games.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "sam";
+            games += player;
+            games -= player;
 
 
             Deck deck = new Deck();
