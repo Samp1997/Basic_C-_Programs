@@ -12,27 +12,20 @@ namespace TwentyOne
         {
 
 
-            Games games = new TwentyOneGame();
-            games.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "sam";
-            games += player;
-            games -= player;
-
-
             Deck deck = new Deck();
             deck.Shuffle(3);
 
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
 
 
         }
+        
 
        
         
@@ -49,6 +42,13 @@ namespace TwentyOne
 //    }
 //    return deck;
 //}
+
+//Games games = new TwentyOneGame();
+//games.Players = new List<Player>();
+//Player player = new Player();
+//player.Name = "sam";
+//games += player;
+//games -= player;
 
 //Console.WriteLine(deck.Cards[01].Face + " of " + deck.Cards[0].Suit);
 //Console.ReadLine();
