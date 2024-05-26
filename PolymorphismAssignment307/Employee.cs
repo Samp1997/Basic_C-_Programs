@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PolymorphismAssignment307
 {
-    class Employee : IQuittable
+    class Employee : Person, IQuittable
     {
         public void Quit()
         {
