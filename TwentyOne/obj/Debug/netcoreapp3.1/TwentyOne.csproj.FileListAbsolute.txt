@@ -17,3 +17,10 @@ C:\Users\chris\Documents\GitHub\Basic_C#_Programs\TwentyOne\obj\Debug\netcoreapp
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.dll
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.exe
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.deps.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache
