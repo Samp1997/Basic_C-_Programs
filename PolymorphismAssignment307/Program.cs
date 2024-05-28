@@ -6,8 +6,8 @@ namespace PolymorphismAssignment307
     {
         static void Main(string[] args)
         {
-            Employee Obj1 = new Employee() { FirstName = "Sample", LastName = "Student", id = 5 };
-            Obj1.SayName();
+            IQuittable Obj1 = new Employee() { FirstName = "Sample", LastName = "Student", id = 5 };
+            Obj1.Quit();
 
         }
     }

@@ -7,5 +7,6 @@ namespace PolymorphismAssignment307
     class Person
     {
     }
+
 }
 
