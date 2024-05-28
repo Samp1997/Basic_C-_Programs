@@ -4,21 +4,28 @@ using System.Text;
 
 namespace OperatorsAssignment315
 {
-    class Employee
+    public class Employee
     {
-        public string Name { get; set; }
-        public string FirstName;
+        public List<Employee> Employees { get; set; }
+        public int FirstName { get; set; }
 
-        public string LastName;
-        public int id;
+        public string LastName { get; set; }
+
+        public bool id { get; set; }
 
 
 
-        public static id operator +=(Id id, Employee employee)
+        public static Employee operator+ (Employee employee, Staff staff)
         {
-            id.Employee.Add(Employee);
-            return Employee;
+            staff.Employee.Add(employee);
+            return staff;
         }
+        public static Employee operator +(Employee employee, Staff staff)
+        {
+            staff.Employee.Remove(employee);
+            return staff;
+        }
+
 
     }
 }

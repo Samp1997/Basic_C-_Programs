@@ -10,7 +10,7 @@ namespace OperatorsAssignment315
             Employee. = new List<Employee>();
             FirstName firstname = new id();
             Employee.Name = "sam";
-            games += player;
+            games = player;
             games -= player;
 
         }
