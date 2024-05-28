@@ -6,7 +6,27 @@ namespace ParsingEnums326
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter What day of the week it is (counted 1-7)");
+            try
+            {
+                Console.WriteLine("Enter the day of the week");
+                WeekDays day = (WeekDays)Enum.Parse(typeof(WeekDays), Console.ReadLine());
+                Console.WriteLine("Have a nice " + day);
+                Console.ReadLine();
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine("Enter The actual day of the week");
+            }
+        }
+
+        public enum WeekDays
+        {
+            Monday,
+            Tuesday,
+            Wednesday,
+            Thursday,
+            Friday
+
         }
     }
 }

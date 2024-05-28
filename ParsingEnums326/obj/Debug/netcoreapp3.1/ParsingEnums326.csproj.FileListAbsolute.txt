@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\bin\Debug\netcoreapp3.1\ParsingEnums326.exe
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\bin\Debug\netcoreapp3.1\ParsingEnums326.deps.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\bin\Debug\netcoreapp3.1\ParsingEnums326.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\bin\Debug\netcoreapp3.1\ParsingEnums326.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\bin\Debug\netcoreapp3.1\ParsingEnums326.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\bin\Debug\netcoreapp3.1\ParsingEnums326.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\obj\Debug\netcoreapp3.1\ParsingEnums326.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\obj\Debug\netcoreapp3.1\ParsingEnums326.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\obj\Debug\netcoreapp3.1\ParsingEnums326.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\obj\Debug\netcoreapp3.1\ParsingEnums326.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\obj\Debug\netcoreapp3.1\ParsingEnums326.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\obj\Debug\netcoreapp3.1\ParsingEnums326.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ParsingEnums326\obj\Debug\netcoreapp3.1\ParsingEnums326.genruntimeconfig.cache
