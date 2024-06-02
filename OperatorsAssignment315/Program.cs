@@ -2,7 +2,7 @@
 
 namespace OperatorsAssignment315
 {
-    class Program : Employee
+    class Program : Employeebghnj 
     {
         static void Main(string[] args)
         {

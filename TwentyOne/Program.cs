@@ -11,15 +11,21 @@ namespace TwentyOne
         static void Main(string[] args)
         {
             
+            Deck deck = new Deck();
 
-            Card card1 = new Card();
-            Card card2 = card1;
-            card1.Face = Face.Eight;
-            card2.Face = Face.King;
+            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
 
-            Console.WriteLine(card1.Face);
+            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+            List<int> numberList = new List<int>() { 1, 2, 3, 535, 686 };
 
-            //Deck deck = new Deck();
+            int sum = numberList.Sum();
+
+
+
+           
+
+
+
             //deck.Shuffle(3);
 
 
@@ -40,6 +46,13 @@ namespace TwentyOne
     }
 }
 
+
+////Card card1 = new Card();
+////Card card2 = card1;
+////card1.Face = Face.Eight;
+////card2.Face = Face.King;
+
+////Console.WriteLine(card1.Face);
 
 //public static Deck Shuffle(Deck, int times)
 //{
