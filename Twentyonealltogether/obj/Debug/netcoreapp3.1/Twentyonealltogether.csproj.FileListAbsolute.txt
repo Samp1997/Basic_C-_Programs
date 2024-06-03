@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\obj\Debug\netcoreapp3.1\Twentyonealltogether.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\obj\Debug\netcoreapp3.1\Twentyonealltogether.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\obj\Debug\netcoreapp3.1\Twentyonealltogether.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\obj\Debug\netcoreapp3.1\Twentyonealltogether.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\bin\Debug\netcoreapp3.1\Twentyonealltogether.exe
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\bin\Debug\netcoreapp3.1\Twentyonealltogether.deps.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\bin\Debug\netcoreapp3.1\Twentyonealltogether.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\bin\Debug\netcoreapp3.1\Twentyonealltogether.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\bin\Debug\netcoreapp3.1\Twentyonealltogether.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\bin\Debug\netcoreapp3.1\Twentyonealltogether.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\obj\Debug\netcoreapp3.1\Twentyonealltogether.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\obj\Debug\netcoreapp3.1\Twentyonealltogether.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Twentyonealltogether\obj\Debug\netcoreapp3.1\Twentyonealltogether.genruntimeconfig.cache
