@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\bin\Debug\netcoreapp3.1\DateTimeAssignment371.exe
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\bin\Debug\netcoreapp3.1\DateTimeAssignment371.deps.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\bin\Debug\netcoreapp3.1\DateTimeAssignment371.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\bin\Debug\netcoreapp3.1\DateTimeAssignment371.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\bin\Debug\netcoreapp3.1\DateTimeAssignment371.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\bin\Debug\netcoreapp3.1\DateTimeAssignment371.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\obj\Debug\netcoreapp3.1\DateTimeAssignment371.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\obj\Debug\netcoreapp3.1\DateTimeAssignment371.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\obj\Debug\netcoreapp3.1\DateTimeAssignment371.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\obj\Debug\netcoreapp3.1\DateTimeAssignment371.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\obj\Debug\netcoreapp3.1\DateTimeAssignment371.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\obj\Debug\netcoreapp3.1\DateTimeAssignment371.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\DateTimeAssignment371\obj\Debug\netcoreapp3.1\DateTimeAssignment371.genruntimeconfig.cache

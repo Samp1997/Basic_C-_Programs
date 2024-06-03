@@ -15,7 +15,13 @@ namespace Twentyonealltogether
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            Console.WriteLine(card);
+            using (StreamWriter file = new StreamWriter(@"C:\user\chris\logs\log.txt", true))
+            {
+                file.WtiteLine(DateTime.Now);
+                file.WriteLine(card);
+            }
             Deck.Cards.RemoveAt(0);
         }
     }

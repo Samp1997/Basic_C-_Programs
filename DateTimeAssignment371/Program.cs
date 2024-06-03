@@ -6,7 +6,24 @@ namespace DateTimeAssignment371
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+
+            DateTime currentTime = new DateTime(2024, 6, 2, 10, 02, 00);
+            DateTime timePassed = new DateTime(2024, 7, 3, 12, 15, 00);
+            Console.WriteLine(currentTime);
+            Console.ReadLine();
+            Console.WriteLine("Enter a number");
+            
+
+
+
+
+
+            TimeSpan amountOfTime =  currentTime - timePassed;
+
+            Console.WriteLine(amountOfTime);
+
+            
         }
     }
 }
