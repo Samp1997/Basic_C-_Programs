@@ -6,10 +6,7 @@ namespace Twentyonealltogether
     {
         static void Main(string[] args)
         {
-            DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
-            DateTime yearOfGraduation = new DateTime(1995, 5, 23, 8, 32, 45);
-
-            TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
+            
 
             Console.WriteLine("Welcome to the Gran Hotel and Casino, Let's start by telling me your name.");
             string playerName = Console.ReadLine();

@@ -10,17 +10,20 @@ namespace OperatorsAssignment315
         public int FirstName { get; set; }
 
         public string LastName { get; set; }
+        
 
         public bool id { get; set; }
 
+     
 
 
-        public static Employee operator+ (Employee employee, Staff staff)
+
+        public static Employee operator+ (Staff staff, Employee employee)
         {
             staff.Employee.Add(employee);
             return staff;
         }
-        public static Employee operator +(Employee employee, Staff staff)
+        public static Employee operator +(Employee employee)
         {
             staff.Employee.Remove(employee);
             return staff;
