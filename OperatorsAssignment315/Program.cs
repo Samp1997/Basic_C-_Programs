@@ -1,12 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace OperatorsAssignment315
 {
-    class Program : Employee,
+    class Program : Employee
     {
         static void Main(string[] args)
         {
-          
+            Employee employee = new Employee() { Id = 1 };
+            Staff staff = new Staff() { Id = 2 };
+            Console.WriteLine(employee == staff);
+            Console.WriteLine(employee != staff);
+            Console.ReadLine();
         }
     }
 }

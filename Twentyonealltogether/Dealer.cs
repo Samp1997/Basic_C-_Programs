@@ -17,12 +17,7 @@ namespace Twentyonealltogether
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
-            using (StreamWriter file = new StreamWriter(@"C:\user\chris\logs\log.txt", true))
-            {
-                file.WtiteLine(DateTime.Now);
-                file.WriteLine(card);
-            }
-            Deck.Cards.RemoveAt(0);
+            
         }
     }
 }

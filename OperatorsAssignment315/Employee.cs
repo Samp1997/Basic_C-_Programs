@@ -12,23 +12,41 @@ namespace OperatorsAssignment315
         public string LastName { get; set; }
         
 
-        public bool id { get; set; }
-
-     
+        public bool Id { get; set; }
 
 
 
-        public static Employee operator+ (Staff staff, Employee employee)
-        {
-            staff.Employee.Add(employee);
-            return staff;
-        }
-        public static Employee operator +(Employee employee)
-        {
-            staff.Employee.Remove(employee);
-            return staff;
-        }
+
+       
 
 
     }
+
+    public class Staff
+    {
+        public List<Staff> Saffs { get; set; }
+        public int FirstName { get; set; }
+
+        public string LastName { get; set; }
+
+
+        public bool Id { get; set; }
+
+
+        public static bool operator ==(Employee employee, Staff staff)
+        {
+            return employee.Id == staff.Id;
+        }
+        public static bool operator !=(Staff staff, Employee employee)
+        {
+            return employee.Id != staff.Id;
+        }
+
+    }
+
+   
+
+
+
 }
+
