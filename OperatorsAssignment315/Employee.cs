@@ -6,47 +6,30 @@ namespace OperatorsAssignment315
 {
     public class Employee
     {
-        public List<Employee> Employees { get; set; }
-        public int FirstName { get; set; }
 
-        public string LastName { get; set; }
-        
-
-        public bool Id { get; set; }
-
-
-
-
-       
-
-
-    }
-
-    public class Staff
-    {
-        public List<Staff> Saffs { get; set; }
-        public int FirstName { get; set; }
+        public string FirstName { get; set; }
 
         public string LastName { get; set; }
 
 
-        public bool Id { get; set; }
+        public int Id { get; set; }
 
 
-        public static bool operator ==(Employee employee, Staff staff)
+        public static bool operator ==(Employee employee1, Employee employee2)
         {
-            return employee.Id == staff.Id;
+            return employee1.Id == employee2.Id;
         }
-        public static bool operator !=(Staff staff, Employee employee)
+        public static bool operator !=(Employee employee1, Employee employee2)
         {
-            return employee.Id != staff.Id;
+            return employee1.Id != employee2.Id;
         }
+
+
+
+
+
+
 
     }
-
-   
-
-
-
 }
 

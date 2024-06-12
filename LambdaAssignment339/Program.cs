@@ -6,7 +6,19 @@ namespace LambdaAssignment339
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<Employee> employeelist = new List<Employee>();
+
+
+            employeelist.Add("Joe");
+            employeelist.Add("Joe");
+            employeelist.Add("Kevin");
+            employeelist.Add("Micky");
+            employeelist.Add("caral");
+            employeelist.Add("frank");
+            employeelist.Add("ian");
+            employeelist.Add("liam");
+            employeelist.Add("jake");
+            employeelist.Add("mick");
         }
     }
 }

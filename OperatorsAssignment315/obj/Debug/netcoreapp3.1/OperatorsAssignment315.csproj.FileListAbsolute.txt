@@ -2,3 +2,12 @@ C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\obj\Deb
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\obj\Debug\netcoreapp3.1\OperatorsAssignment315.AssemblyInfoInputs.cache
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\obj\Debug\netcoreapp3.1\OperatorsAssignment315.AssemblyInfo.cs
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\obj\Debug\netcoreapp3.1\OperatorsAssignment315.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\bin\Debug\netcoreapp3.1\OperatorsAssignment315.exe
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\bin\Debug\netcoreapp3.1\OperatorsAssignment315.deps.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\bin\Debug\netcoreapp3.1\OperatorsAssignment315.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\bin\Debug\netcoreapp3.1\OperatorsAssignment315.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\bin\Debug\netcoreapp3.1\OperatorsAssignment315.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\bin\Debug\netcoreapp3.1\OperatorsAssignment315.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\obj\Debug\netcoreapp3.1\OperatorsAssignment315.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\obj\Debug\netcoreapp3.1\OperatorsAssignment315.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\OperatorsAssignment315\obj\Debug\netcoreapp3.1\OperatorsAssignment315.genruntimeconfig.cache

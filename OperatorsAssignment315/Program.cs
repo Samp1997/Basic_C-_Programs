@@ -8,10 +8,10 @@ namespace OperatorsAssignment315
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee() { Id = 1 };
-            Staff staff = new Staff() { Id = 2 };
-            Console.WriteLine(employee == staff);
-            Console.WriteLine(employee != staff);
+            Employee employee1 = new Employee() { FirstName = "Joe", LastName = "Smith",  Id = 1 };
+            Employee employee2 = new Employee() { FirstName = "Jake", LastName = "Adams",  Id = 2 };
+            Console.WriteLine(employee1 == employee2);
+            Console.WriteLine(employee1 != employee2);
             Console.ReadLine();
         }
     }
