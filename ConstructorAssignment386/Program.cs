@@ -6,9 +6,10 @@ namespace ConstructorAssignment386
     {
         static void Main(string[] args)
         {
-            onst string casinoName = "Grand Hotel and Casino";
+            const string casinoName = "Grand Hotel and Casino";
 
-            Guid identifier = Guid.NewGuid();
+            var num1 = 2;
+            Console.WriteLine(casinoName + " " + num1);
 
         }
     }
