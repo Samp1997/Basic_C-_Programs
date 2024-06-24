@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\bin\Debug\netcoreapp3.1\ConstructorAssignment386.exe
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\bin\Debug\netcoreapp3.1\ConstructorAssignment386.deps.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\bin\Debug\netcoreapp3.1\ConstructorAssignment386.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\bin\Debug\netcoreapp3.1\ConstructorAssignment386.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\bin\Debug\netcoreapp3.1\ConstructorAssignment386.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\bin\Debug\netcoreapp3.1\ConstructorAssignment386.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\obj\Debug\netcoreapp3.1\ConstructorAssignment386.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\obj\Debug\netcoreapp3.1\ConstructorAssignment386.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\obj\Debug\netcoreapp3.1\ConstructorAssignment386.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\obj\Debug\netcoreapp3.1\ConstructorAssignment386.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\obj\Debug\netcoreapp3.1\ConstructorAssignment386.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\obj\Debug\netcoreapp3.1\ConstructorAssignment386.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\ConstructorAssignment386\obj\Debug\netcoreapp3.1\ConstructorAssignment386.genruntimeconfig.cache

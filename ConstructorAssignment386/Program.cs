@@ -9,7 +9,7 @@ namespace ConstructorAssignment386
             const string casinoName = "Grand Hotel and Casino";
 
             var num1 = 2;
-            Console.WriteLine(casinoName + " " + num1);
+            Console.WriteLine(casinoName + "{0} " + num1);
 
         }
     }
