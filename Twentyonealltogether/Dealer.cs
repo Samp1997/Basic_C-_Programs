@@ -17,7 +17,7 @@ namespace Twentyonealltogether
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
-            
+            using (StreamWriter file = new StreamWriter(@"c:\user\Chris\logs\log.txt"))
         }
     }
 }

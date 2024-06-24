@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\bin\Debug\netcoreapp3.1\LambdaAssignment339.exe
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\bin\Debug\netcoreapp3.1\LambdaAssignment339.deps.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\bin\Debug\netcoreapp3.1\LambdaAssignment339.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\bin\Debug\netcoreapp3.1\LambdaAssignment339.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\bin\Debug\netcoreapp3.1\LambdaAssignment339.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\bin\Debug\netcoreapp3.1\LambdaAssignment339.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\obj\Debug\netcoreapp3.1\LambdaAssignment339.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\obj\Debug\netcoreapp3.1\LambdaAssignment339.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\obj\Debug\netcoreapp3.1\LambdaAssignment339.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\obj\Debug\netcoreapp3.1\LambdaAssignment339.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\obj\Debug\netcoreapp3.1\LambdaAssignment339.dll
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\obj\Debug\netcoreapp3.1\LambdaAssignment339.pdb
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\LambdaAssignment339\obj\Debug\netcoreapp3.1\LambdaAssignment339.genruntimeconfig.cache

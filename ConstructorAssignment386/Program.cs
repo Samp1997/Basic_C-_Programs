@@ -6,7 +6,10 @@ namespace ConstructorAssignment386
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            onst string casinoName = "Grand Hotel and Casino";
+
+            Guid identifier = Guid.NewGuid();
+
         }
     }
 }
