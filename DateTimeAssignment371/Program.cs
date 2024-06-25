@@ -7,9 +7,12 @@ namespace DateTimeAssignment371
         static void Main(string[] args)
         {
 
-            DateTime dateTime = new  DateTime(2024, 7, 24, 4, 20, 30);
+            
 
-            Console.WriteLine(dateTime.Now.TimeOfDay)
+            Console.WriteLine(DateTime.Now);
+            Console.WriteLine("Enter a number");
+            int input = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(DateTime.Now.AddHours(input));
             
 
             
