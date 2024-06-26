@@ -1,7 +1,41 @@
-﻿
+﻿@using TechAcadStudentsMvc.Models.Instructor
+@model List<Instructor>
+
 @{
     ViewBag.Title = "Instructors";
 }
 
 <h2>Instructors</h2>
+
+
+@{ 
+    ViewBag.Title = "Instructors";
+}
+
+@{ 
+    foreach(Instructor instructor in Model)
+            {
+                <h4>@instructor.FirstName</h4>
+            }
+}
+
+<h5>
+    Details for Instructor with ID: @ViewBag.Id
+
+</h5>
+
+<p>
+    Furthur details about the Instructor:
+</p>
+<ul>
+    <li>
+        Another Id: @Model.id
+    </li>
+    <li>
+        First Name: @Model.FirstName
+    </li>
+    <li>
+        Last Name: @Model.LastName
+    </li>
+</ul>
 

@@ -30,6 +30,13 @@ namespace TechAcadStudentsMVC.Controllers
         public ActionResult Instructor(int id)
         {
             ViewBag.Id = id;
+
+            Instructor dayTimeInstructor = new Instructor
+            {
+                id = 1,
+                FirstName = "Erik",
+                LastName = "Gross"
+            };
             return View();
         }
 
@@ -37,5 +44,34 @@ namespace TechAcadStudentsMVC.Controllers
         {
             return View();
         }
+
+        public ActionResult Instructors()
+        {
+            List<Instructor> instructors = new List<Instructor>
+            {
+                new Instructor
+                {
+                Id = 1,
+                FirstName = "Rick",
+                LastName = "Ramen"
+            },
+            new Instructor
+            {
+                Id = 2,
+                FirstName = "Brett",
+                LastName = "Calandar"
+            },
+            new Instructor
+            {
+                Id = 3,
+                FirstName = "Adam",
+                LastName = "Smithonian"
+            }
+            };
+
+            return View(instructors);
+        }
+
+        
     }
 }
