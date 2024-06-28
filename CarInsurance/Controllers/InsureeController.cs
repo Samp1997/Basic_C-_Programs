@@ -14,6 +14,11 @@ namespace CarInsurance.Controllers
     {
         private InsuranceEntities db = new InsuranceEntities();
 
+        public ActionResult Admin()
+        {
+            return View(db.Tables.ToList());
+        }
+
         // GET: Insuree
         public ActionResult Index()
         {
@@ -50,6 +55,47 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                table.Quote = 50m;
+                if (DateTime.Now.Year - table.DateOfBirth.Year <= 18)
+                {
+                    table.Quote += 100;
+                }
+                if (DateTime.Now.Year - table.DateOfBirth.Year >= 19 && DateTime.Now.Year - table.DateOfBirth.Year <= 25)
+                {
+                    table.Quote += 50;
+                }
+                if (DateTime.Now.Year - table.DateOfBirth.Year >= 26)
+                {
+                    table.Quote += 25;
+                }
+                if (table.CarYear < 2000)
+                {
+                    table.Quote += 25;
+                }
+                if (table.CarYear > 2015)
+                {
+                    table.Quote += 25;
+                }
+                if (table.CarMake == "Porsche")
+                {
+                    table.Quote += 25;
+                    if (table.CarModel == "911 Carrera")
+                    {
+                        table.Quote += 25;
+                    }
+                }
+                if (table.SpeedingTickets > 0)
+                {
+                    table.Quote += (10 * table.SpeedingTickets);
+                }
+                if (table.DUI)
+                {
+                    table.Quote *= 1.25m;
+                }
+                if (table.CoverageType)
+                {
+                    table.Quote *= 1.5m;
+                }
                 db.Tables.Add(table);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -82,6 +128,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+               
                 db.Entry(table).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
