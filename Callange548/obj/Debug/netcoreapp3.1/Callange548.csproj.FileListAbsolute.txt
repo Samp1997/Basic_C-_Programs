@@ -1,6 +1,5 @@
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\bin\Debug\netcoreapp3.1\Callange548.exe
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\bin\Debug\netcoreapp3.1\Callange548.deps.json
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\bin\Debug\netcoreapp3.1\Callange548.runtimeconfig.json
@@ -30,8 +29,15 @@ C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcorea
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\Callange548.RazorTargetAssemblyInfo.cs
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\Callange548.Views.pdb
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\staticwebassets\Callange548.StaticWebAssets.Manifest.cache
-C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\staticwebassets\Callange548.StaticWebAssets.xml
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\Callange548.dll
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\Callange548.pdb
 C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\Callange548.genruntimeconfig.cache
-C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\Callange548.csproj.CopyComplete
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\bin\Debug\netcoreapp3.1\Callange548.StaticWebAssets.xml
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\Callange548.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\Callange548.sourcelink.json
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\staticwebassets\Callange548.StaticWebAssets.Pack.cache
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Callange548.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Callange548.props
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Callange548.props
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Callange548.props
+C:\Users\chris\Documents\GitHub\Basic_C#_Programs\Callange548\obj\Debug\netcoreapp3.1\Callange.8993F404.Up2Date

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Callange548.props" />
+</Project>
